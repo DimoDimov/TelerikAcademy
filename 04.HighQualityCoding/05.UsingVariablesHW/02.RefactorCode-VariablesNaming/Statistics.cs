@@ -34,12 +34,22 @@ namespace _02.RefactorCode_VariablesNaming
         /// statistics we will print</param>
         public Statistics(double[] numbersArr)
         {
+            if (numbersArr == null)
+            {
+                throw new ArgumentNullException("Array is null");
+            }
+
+            if (numbersArr.Length == 0)
+            {
+                throw new ArgumentException("Array is empty");
+            }
+
             this.numbersArr = numbersArr.Clone() as double[];
         }
 
         #endregion
 
-        #region Method
+        #region Methods
 
         /// <summary>
         /// Prints the average value of the inputted array
