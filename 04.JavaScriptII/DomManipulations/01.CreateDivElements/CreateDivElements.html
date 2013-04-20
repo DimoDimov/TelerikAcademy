@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CreateDivElements</title>
+    <link href="CreateDivElements.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <label for="divCount">Please input number of Divs to be created: </label>
+        <input id="divCount" type="text"/>
+        <a href="#" id="Start" onclick="onButtonStartClick(event)"><strong>Start</strong></a>
+        <a href="#" id="Stop" onclick="onButtonStopClick(event)"><strong>Stop</strong></a>
+    </div>
+    <p></p>
+    <div id="content"></div>
+    <script src="CreateDivElements.js"></script>
+    <script>
+        var contentDiv = document.getElementById('content');
+        contentDiv.style.width = (screen.width - 100) + 'px';
+        contentDiv.style.height = (screen.height - 300) + 'px';
+        var stopButton = document.getElementById('Stop');
+        stopButton.className = 'disabledButton'
+        stopButton.onclick = function () { };
+    </script>
+</body>
+</html>
