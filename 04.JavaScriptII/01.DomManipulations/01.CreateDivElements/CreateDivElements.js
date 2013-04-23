@@ -5,7 +5,9 @@ function onButtonStopClick(event) {
 
     var startButton = document.getElementById('Start');
     startButton.className = 'enabledButton';
-    startButton.onclick = function () { onButtonStartClick(); };
+    startButton.onclick = function () {
+        onButtonStartClick();
+    };
 
     var stopButton = document.getElementById('Stop');
     stopButton.className = 'disabledButton';
@@ -27,7 +29,9 @@ function onButtonStartClick(event) {
     startButton.className = 'disabledButton';
 
     var refreshInterval = 500;
-    timer = setInterval(function () { createDivElements(); }, refreshInterval);
+    timer = setInterval(function () {
+        createDivElements();
+    }, refreshInterval);
 
     startButton.onclick = function () { };
 
