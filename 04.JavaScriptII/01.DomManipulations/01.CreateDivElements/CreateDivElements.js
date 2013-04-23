@@ -1,15 +1,6 @@
-﻿(function generateRandomColor() {
-    var contentDiv = document.getElementById('content');
-    contentDiv.style.width = (screen.width - 100) + 'px';
-    contentDiv.style.height = (screen.height - 300) + 'px';
-    var stopButton = document.getElementById('Stop');
-    stopButton.className = 'disabledButton'
-    stopButton.onclick = function () { }; 
-})();
+﻿var timer;
 
-var timer;
-
-function onButtonStopClick(event) {
+var onButtonStopClick = function () {
     'use strict';
 
     var startButton = document.getElementById('Start');
@@ -26,7 +17,7 @@ function onButtonStopClick(event) {
     stopButton.onclick = function () { };
 }
 
-function onButtonStartClick(event) {
+function onButtonStartClick() {
     'use strict';
     if (!event) event = window.event;
 
@@ -55,7 +46,6 @@ function createDivElements() {
     'use strict';
 
     var contentDiv = document.getElementById('content');
-    var defaultDivCount = 5;
     var divCount = document.getElementById('divCount').value;
 
     while (contentDiv.firstChild) {
@@ -118,7 +108,5 @@ function generateRandomColor() {
     var red = generateRandomNum(0, 255);
     var green = generateRandomNum(0, 255);
     var blue = generateRandomNum(0, 255);
-    var alpha = generateRandomNum(0, 255);
-    return 'rgba(' + red + ',' + green + ',' + blue + alpha + ')';
+    return 'rgb(' + red + ',' + green + ',' + blue + ')';
 }
-

@@ -1,9 +1,8 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <base href="http://htmlpreview.github.io/?https://github.com/DimoDimov/TelerikAcademy/blob/master/04.JavaScriptII/01.DomManipulations/01.CreateDivElements/CreateDivs.html" />
     <title>CreateDivElements</title>
-    <link href="http://htmlpreview.github.io/?https://github.com/DimoDimov/TelerikAcademy/blob/master/04.JavaScriptII/01.DomManipulations/01.CreateDivElements/CreateDivs.css" rel="stylesheet" type="text/css"/>
+    <link href="CreateDivElements.css" rel="stylesheet" type="text/css"/>
 
 </head>
 <body>
@@ -24,7 +23,15 @@
     </div>
     <p></p>
     <div id="content"></div>
-    <script src="http://htmlpreview.github.io/?https://github.com/DimoDimov/TelerikAcademy/blob/master/04.JavaScriptII/01.DomManipulations/01.CreateDivElements/CreateDivs.js" type="text/javascript"></script>
-
+    <script src="CreateDivElements.js" type="text/javascript"></script>
+    
+    <script>
+        var contentDiv = document.getElementById('content');
+        contentDiv.style.width = (screen.width - 100) + 'px';
+        contentDiv.style.height = (screen.height - 300) + 'px';
+        var stopButton = document.getElementById('Stop');
+        stopButton.className = 'disabledButton'
+        stopButton.onclick = function () { };
+    </script>
 </body>
 </html>
