@@ -1,4 +1,13 @@
-﻿var timer;
+﻿(function generateRandomColor() {
+    var contentDiv = document.getElementById('content');
+    contentDiv.style.width = (screen.width - 100) + 'px';
+    contentDiv.style.height = (screen.height - 300) + 'px';
+    var stopButton = document.getElementById('Stop');
+    stopButton.className = 'disabledButton'
+    stopButton.onclick = function () { }; 
+})();
+
+var timer;
 
 function onButtonStopClick(event) {
     'use strict';
@@ -111,3 +120,4 @@ function generateRandomColor() {
     var blue = generateRandomNum(0, 255);
     return 'rgb(' + red + ',' + green + ',' + blue + ')';
 }
+
