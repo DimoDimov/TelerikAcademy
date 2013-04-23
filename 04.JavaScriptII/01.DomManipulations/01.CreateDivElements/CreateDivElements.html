@@ -2,7 +2,51 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>CreateDivElements</title>
-    <link href="CreateDivElements.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: sans-serif, Arial;
+        }
+
+            body a {
+                padding: 10px 35px 10px 30px;
+                border-radius: 10px;
+                text-decoration: none;
+                color: #050505;
+                background: #1DFF00;
+                width: 230px;
+            }
+
+                body a:hover {
+                    background: #050505;
+                    color: #1DFF00;
+                }
+
+        .enabledButton {
+            color: #050505;
+            background: #1DFF00;
+        }
+
+        .disabledButton {
+            color: #050505;
+            background: #FF0101;
+        }
+
+        #content {
+            width: 1340px;
+            height: 550px;
+            border: 5px solid darkgrey;
+            background-color: lightgrey;
+            position: absolute;
+        }
+
+            #content div.styled {
+                border: 1px solid black;
+                text-align: center;
+                margin: 5px;
+                display: inline-block;
+                position: absolute;
+            }
+    </style>
 </head>
 <body>
     <!--Write a script that creates a number of div elements.Each div element must have the following
@@ -16,13 +60,127 @@
     Random border-width between 1px and 20px-->
     <div>
         <label for="divCount">Please input number of Divs to be created: </label>
-        <input id="divCount" type="text"/>
+        <input id="divCount" type="text" />
         <a href="#" id="Start" onclick="onButtonStartClick(event)"><strong>Start</strong></a>
         <a href="#" id="Stop" onclick="onButtonStopClick(event)"><strong>Stop</strong></a>
     </div>
     <p></p>
     <div id="content"></div>
-    <script src="CreateDivElements.js"></script>
+    <script>
+        var timer;
+
+        function onButtonStopClick(event) {
+            'use strict';
+
+            var startButton = document.getElementById('Start');
+            startButton.className = 'enabledButton';
+            startButton.onclick = function () {
+                onButtonStartClick();
+            };
+
+            var stopButton = document.getElementById('Stop');
+            stopButton.className = 'disabledButton';
+
+            clearInterval(timer);
+
+            stopButton.onclick = function () { };
+        }
+
+        function onButtonStartClick(event) {
+            'use strict';
+            if (!event) event = window.event;
+
+            var stopButton = document.getElementById('Stop');
+            stopButton.className = 'enabledButton';
+            stopButton.onclick = function () { onButtonStopClick(); };
+
+            var startButton = document.getElementById('Start');
+            startButton.className = 'disabledButton';
+
+            var refreshInterval = 500;
+            timer = setInterval(function () {
+                createDivElements();
+            }, refreshInterval);
+
+            startButton.onclick = function () { };
+
+            if (event.preventDefault) {
+                event.preventDefault();
+            }
+
+            return false;
+        }
+
+        function createDivElements() {
+            'use strict';
+
+            var contentDiv = document.getElementById('content');
+            var defaultDivCount = 5;
+            var divCount = document.getElementById('divCount').value | defaultDivCount;
+
+            while (contentDiv.firstChild) {
+                contentDiv.removeChild(contentDiv.firstChild);
+            }
+
+            var randomDiv;
+            var currCount = 0;
+            var documentFragment = document.createDocumentFragment();
+
+            while (currCount < divCount) {
+                randomDiv = document.createElement('div');
+                randomDiv.className = 'styled';
+                randomDiv.innerHTML = '<strong>div</strong>';
+
+                var divMinSize = 20;
+                var divMaxSize = 100;
+                randomDiv.style.width = generateRandomNum(divMinSize, divMaxSize) + 'px';
+                randomDiv.style.height = randomDiv.style.width;
+
+                var divMinBorderWidth = 1;
+                var divMaxBorderWidth = 20;
+                randomDiv.style.borderWidth = generateRandomNum(divMinBorderWidth, divMaxBorderWidth) + 'px';
+
+                var divMinBorderRadius = 0;
+                var divMaxBorderRadius = 40;
+                randomDiv.style.borderRadius = generateRandomNum(divMinBorderRadius, divMaxBorderRadius) + 'px';
+
+                randomDiv.style.borderColor = generateRandomColor();
+
+                var maxHeight = contentDiv.offsetHeight - divMaxSize - divMaxBorderRadius;
+                var top;
+                top = generateRandomNum(0, maxHeight);
+                randomDiv.style.top = top + 'px';
+
+                var maxWidth = contentDiv.offsetWidth - divMaxSize - divMaxBorderRadius;
+                var left;
+                left = generateRandomNum(0, maxWidth);
+                randomDiv.style.left = left + 'px';
+
+                randomDiv.style.fontSize = parseInt(randomDiv.style.width, 10) / 2 + 'px';
+                randomDiv.style.lineHeight = parseInt(randomDiv.style.width, 10) + 'px';
+                randomDiv.style.background = generateRandomColor();
+                randomDiv.style.color = generateRandomColor();
+
+                documentFragment.appendChild(randomDiv);
+
+                currCount++;
+            }
+            contentDiv.appendChild(documentFragment);
+        }
+
+        function generateRandomNum(min, max) {
+            'use strict';
+            return Math.floor((Math.random() * (max - min)) + min);
+        }
+
+        function generateRandomColor() {
+            'use strict';
+            var red = generateRandomNum(0, 255);
+            var green = generateRandomNum(0, 255);
+            var blue = generateRandomNum(0, 255);
+            return 'rgb(' + red + ',' + green + ',' + blue + ')';
+        }
+    </script>
     <script>
         var contentDiv = document.getElementById('content');
         contentDiv.style.width = (screen.width - 100) + 'px';
