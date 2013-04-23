@@ -118,6 +118,7 @@ function generateRandomColor() {
     var red = generateRandomNum(0, 255);
     var green = generateRandomNum(0, 255);
     var blue = generateRandomNum(0, 255);
-    return 'rgb(' + red + ',' + green + ',' + blue + ')';
+    var alpha = generateRandomNum(0, 255);
+    return 'rgba(' + red + ',' + green + ',' + blue + alpha + ')';
 }
 
