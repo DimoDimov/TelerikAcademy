@@ -1,0 +1,29 @@
+﻿body {
+}
+
+#Box {
+    white-space: pre;
+    background-color:purple;
+    color:yellow;
+    display:inline-block;
+    padding: 10px;
+}
+
+#ListOfEl {
+    background-color:skyblue;
+    display:inline-block;
+}
+
+.element {
+
+    background-color:green;
+    color:black;
+    display:inline-block;
+    padding: 10px;
+}
+
+
+ol > li:before {
+    content: 'id:'attr(id)' class:'attr(class);
+}
+

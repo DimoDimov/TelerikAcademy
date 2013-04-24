@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+
+        #wrapper {
+            margin-left: 50px;
+            margin-top: 50px;
+            border: 1px solid black;
+            border-radius: 5px;
+            display: inline-block;
+            padding: 15px;
+            width:auto;
+        }
+
+        input, label {
+            display:compact;
+        }
+
+        textarea {
+            width: auto;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <h1>
+            Create a text area and two inputs with type="color"
+            Make the font color of the text area as the value of the first color input
+            Make the background color of the text area as the value of the second input
+        </h1>
+        <hr />
+        <div>
+            <label for="fontColor">Set the font color</label>
+            <input type="color" id="fontColor" onchange="setTheFontColor()" />
+            <label for="backgroundColor">Set the background color</label>
+            <input type="color" id="backgroundColor" onchange="setThebackgroundColor()" />
+            <textarea>Please input some text here.</textarea>
+        </div>
+    </div>
+    <script>
+        function setTheFontColor() {
+            var color = document.getElementById("fontColor").value;
+            var textarea = document.getElementsByTagName("textarea")[0];
+            textarea.style.color = color;
+
+        }
+
+        function setThebackgroundColor() {
+            color = document.getElementById("backgroundColor").value;
+            var textarea = document.getElementsByTagName("textarea")[0];
+            textarea.style.backgroundColor = color;
+        }
+    </script>
+</body>
+</html>
