@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #mainBox {
+            height: 450px;
+            width: 500px;
+            border: 5px solid darkgrey;
+            background-color: lightgrey;
+            margin-top:50px;
+            margin-left:50px;
+        }
+
+        #clickMe {
+            height: 50px;
+            width: 100px;
+            margin-left:50px;
+        }
+    </style>
+</head>
+<body>
+    <input id="clickMe" type="button" value="ClickMe" onclick="OnButtonClick()"/>
+    <div id="mainBox">
+    </div>
+    <script>
+        function OnButtonClick() {
+            //random color generator
+            function generateRandomColor() {
+                'use strict';
+                var red = generateRandomNum(0, 255);
+                var green = generateRandomNum(0, 255);
+                var blue = generateRandomNum(0, 255);
+                return 'rgb(' + red + ',' + green + ',' + blue + ')';
+            }
+
+            //random number
+            function generateRandomNum(min, max) {
+                'use strict';
+                return Math.floor((Math.random() * (max - min)) + min);
+            }
+
+            //tags for cloud
+            var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress",
+                "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript",
+                "js", "cms", "html", "javascript", "http", "http", "CMS"];
+            var tagsByFrequencey = [];
+
+            //create array of String objects with property frequency.
+            for (var i = 0; i < tags.length; i++) {
+                for (var k = 0; k < tagsByFrequencey.length; k++) {
+                    if (((tags[i]).toLowerCase()) == tagsByFrequencey[k]) {
+                        tagsByFrequencey[k].frequency++;
+                        break;
+                    }
+                }
+
+                if (k === tagsByFrequencey.length) {
+                    tagsByFrequencey.push(new String(tags[i].toLowerCase()));
+                    tagsByFrequencey[k].frequency = 1;
+                }
+            }
+
+            function compare(a, b) {
+                if (a.frequency < b.frequency) {
+                    return -1;
+                }
+                else if (a.frequency > b.frequency) {
+                    return 1;
+                }
+                else {
+                    return 0;
+                }
+            }
+
+            tagsByFrequencey.sort(compare);
+
+            for (var k = 0; k < tagsByFrequencey.length; k++) {
+                console.log('tag ' + tagsByFrequencey[k] + ' seen:' + tagsByFrequencey[k].frequency);
+            }
+
+            var minSize = 17;
+            var maxSize = 42;
+            var sizeDifference = maxSize - minSize;
+            var maxFrequency = -Number.MAX_VALUE;
+            for (var i = 0; i < tagsByFrequencey.length; i++) {
+                if (parseInt(tagsByFrequencey[i].frequency) > maxFrequency) {
+                    maxFrequency = tagsByFrequencey[i].frequency;
+                }
+            }
+
+            var mainBoxDiv = document.getElementById('mainBox');
+            var absoluteMainHeight = mainBoxDiv.offsetHeight - maxSize;
+            var absoluteMainWidth = (mainBoxDiv.offsetWidth - maxSize) * 3 / 4;
+            console.log(absoluteMainHeight);
+            console.log(absoluteMainWidth);
+
+            while (mainBoxDiv.firstChild) {
+                mainBoxDiv.removeChild(mainBoxDiv.firstChild);
+            }
+
+            // Create and append spans for each different tag and set its size according to its frequency
+            for (var k = 0; k < tagsByFrequencey.length; k++) {
+                var span = document.createElement('span');
+                span.innerHTML = tagsByFrequencey[k];
+
+                var spanSize = Math.floor(minSize + (tagsByFrequencey[k].frequency / maxFrequency) * sizeDifference);
+                console.log(spanSize);
+                span.style.fontSize = spanSize + 'px';
+                span.style.color = generateRandomColor();
+                span.style.position = 'absolute';
+                span.style.top = generateRandomNum(150, Math.floor(absoluteMainHeight)) + 'px';
+                span.style.left = generateRandomNum(60, Math.floor(absoluteMainWidth)) + 'px';
+                mainBoxDiv.appendChild(span);
+
+            }
+        };
+    </script>
+</body>
+</html>
