@@ -158,7 +158,7 @@ namespace Telerik
         }
 
         /// <summary>
-        /// Replaces latin letters with cyrillic letters
+        /// Replaces cyrillic letters with latin letters
         /// </summary>
         /// <param name="input">String to be replaced</param>
         /// <returns>Replaced input string from latin to cyrillic letters</returns>
@@ -185,7 +185,7 @@ namespace Telerik
         }
 
         /// <summary>
-        /// Replaces cyrillic letters with latin letters
+        /// Replaces latin letters with cyrillic letters
         /// </summary>
         /// <param name="input">String to be replaced</param>
         /// <returns>Replaced input string from cyrillic to latin letters</returns>
