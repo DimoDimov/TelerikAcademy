@@ -161,7 +161,7 @@ namespace Telerik
         /// Replaces cyrillic letters with latin letters
         /// </summary>
         /// <param name="input">String to be replaced</param>
-        /// <returns>Replaced input string from latin to cyrillic letters</returns>
+        /// <returns>Replaced input string from cyrillic to latin letters</returns>
         public static string ConvertCyrillicToLatinLetters(this string input)
         {
             var bulgarianLetters = new[]
@@ -188,7 +188,7 @@ namespace Telerik
         /// Replaces latin letters with cyrillic letters
         /// </summary>
         /// <param name="input">String to be replaced</param>
-        /// <returns>Replaced input string from cyrillic to latin letters</returns>
+        /// <returns>Replaced input string from latin to cyrillic letters</returns>
         public static string ConvertLatinToCyrillicKeyboard(this string input)
         {
             var latinLetters = new[]
