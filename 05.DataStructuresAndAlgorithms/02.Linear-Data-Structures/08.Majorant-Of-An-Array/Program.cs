@@ -19,33 +19,32 @@
 
             Dictionary<int, int> countedList = new Dictionary<int, int>();
 
-            // what's the difference between this approach:
-            //for (int i = 0; i < originalList.Count; i++)
-            //{
-            //    int value = 0;
-            //    if (!countedList.TryGetValue(originalList[i], out value))
-            //    {
-            //        countedList.Add(value, 1);
-            //    }
-            //    else
-            //    {
-            //        countedList[originalList[i]]++;
-            //    }
-            //}
-
-            //and that approach:
-            foreach (var el in originalList)
+            for (int i = 0; i < originalList.Count; i++)
             {
                 int value = 0;
-                if (!countedList.TryGetValue(el, out value))
+                if (!countedList.TryGetValue(originalList[i], out value))
                 {
-                    countedList.Add(el, 1);
+                    countedList.Add(originalList[i], 1);
                 }
                 else
                 {
-                    countedList[el]++;
+                    countedList[originalList[i]]++;
                 }
             }
+
+            //same as above
+            //foreach (var el in originalList)
+            //{
+            //    int value = 0;
+            //    if (!countedList.TryGetValue(el, out value))
+            //    {
+            //        countedList.Add(el, 1);
+            //    }
+            //    else
+            //    {
+            //        countedList[el]++;
+            //    }
+            //}
 
             var countedList2 = countedList.OrderBy(pair => -pair.Value);
 
