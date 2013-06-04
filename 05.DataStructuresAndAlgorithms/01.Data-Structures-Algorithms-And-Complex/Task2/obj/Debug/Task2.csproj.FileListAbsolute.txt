@@ -1,0 +1,9 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\bin\Debug\Task2.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\bin\Debug\Task2.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\bin\Debug\Task2.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\obj\Debug\Task2.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task2\obj\Debug\Task2.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\01.Data-Structures-Algorithms-And-Complex\Task2\bin\Debug\Task2.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\01.Data-Structures-Algorithms-And-Complex\Task2\obj\Debug\Task2.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\01.Data-Structures-Algorithms-And-Complex\Task2\obj\Debug\Task2.pdb

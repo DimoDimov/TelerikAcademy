@@ -1,0 +1,9 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\bin\Debug\01.Sum-And-Average-Of-Elements.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\bin\Debug\01.Sum-And-Average-Of-Elements.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\bin\Debug\01.Sum-And-Average-Of-Elements.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\obj\Debug\01.Sum-And-Average-Of-Elements.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\obj\Debug\01.Sum-And-Average-Of-Elements.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\obj\Debug\01.Sum-And-Average-Of-Elements.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\bin\Debug\01.Sum-And-Average-Of-Elements.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\obj\Debug\01.Sum-And-Average-Of-Elements.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\01.Sum-And-Average-Of-Elements\obj\Debug\01.Sum-And-Average-Of-Elements.pdb

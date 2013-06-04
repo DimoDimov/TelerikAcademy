@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\bin\Debug\08.Majorant-Of-An-Array.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\bin\Debug\08.Majorant-Of-An-Array.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\bin\Debug\08.Majorant-Of-An-Array.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\obj\Debug\08.Majorant-Of-An-Array.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\obj\Debug\08.Majorant-Of-An-Array.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\08.Majorant-Of-An-Array\obj\Debug\08.Majorant-Of-An-Array.pdb

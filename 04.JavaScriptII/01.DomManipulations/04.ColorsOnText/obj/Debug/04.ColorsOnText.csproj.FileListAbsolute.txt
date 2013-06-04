@@ -1,0 +1,10 @@
+D:\Dropbox\000.Trash\04.JavaScript2\HomeWorks\01.DomManipulations\04.ColorsOnText\bin\04.ColorsOnText.dll
+D:\Dropbox\000.Trash\04.JavaScript2\HomeWorks\01.DomManipulations\04.ColorsOnText\bin\04.ColorsOnText.pdb
+D:\Dropbox\000.Trash\04.JavaScript2\HomeWorks\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\04.JavaScript2\HomeWorks\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.dll
+D:\Dropbox\000.Trash\04.JavaScript2\HomeWorks\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\04.JavaScriptII\01.DomManipulations\04.ColorsOnText\bin\04.ColorsOnText.dll
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\04.JavaScriptII\01.DomManipulations\04.ColorsOnText\bin\04.ColorsOnText.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\04.JavaScriptII\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\04.JavaScriptII\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.dll
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\04.JavaScriptII\01.DomManipulations\04.ColorsOnText\obj\Debug\04.ColorsOnText.pdb

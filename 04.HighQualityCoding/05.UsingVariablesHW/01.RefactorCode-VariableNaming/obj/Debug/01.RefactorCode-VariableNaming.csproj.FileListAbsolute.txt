@@ -1,0 +1,9 @@
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\bin\Debug\01.RefactorCode-VariableNaming.exe.config
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\bin\Debug\01.RefactorCode-VariableNaming.exe
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\bin\Debug\01.RefactorCode-VariableNaming.pdb
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\obj\Debug\01.RefactorCode-VariableNaming.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\obj\Debug\01.RefactorCode-VariableNaming.exe
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHomeWork\01.RefactorCode-VariableNaming\obj\Debug\01.RefactorCode-VariableNaming.pdb
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHW\01.RefactorCode-VariableNaming\bin\Debug\01.RefactorCode-VariableNaming.exe.config
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHW\01.RefactorCode-VariableNaming\obj\Debug\01.RefactorCode-VariableNaming.exe
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\05.UsingVariablesHW\01.RefactorCode-VariableNaming\obj\Debug\01.RefactorCode-VariableNaming.pdb

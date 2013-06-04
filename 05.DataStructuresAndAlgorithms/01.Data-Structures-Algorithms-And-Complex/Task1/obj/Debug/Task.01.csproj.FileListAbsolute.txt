@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\bin\Debug\01.Task.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\bin\Debug\01.Task.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\bin\Debug\01.Task.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\obj\Debug\Task.01.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\obj\Debug\01.Task.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\01.Task\obj\Debug\01.Task.pdb

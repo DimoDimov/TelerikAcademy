@@ -1,0 +1,5 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\03.SortingNumbers\bin\Debug\03.SortingNumbers.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\03.SortingNumbers\obj\Debug\03.SortingNumbers.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\03.SortingNumbers\obj\Debug\03.SortingNumbers.pdb

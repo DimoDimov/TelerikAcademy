@@ -1,0 +1,5 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task3\bin\Debug\Task3.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task3\bin\Debug\Task3.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task3\bin\Debug\Task3.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task3\obj\Debug\Task3.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\01.Data-Structures-Algorithms-And-Complex\Task3\obj\Debug\Task3.pdb

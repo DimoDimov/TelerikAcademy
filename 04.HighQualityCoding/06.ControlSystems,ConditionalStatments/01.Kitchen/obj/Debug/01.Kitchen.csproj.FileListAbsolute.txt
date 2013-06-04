@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\bin\Debug\01.Kitchen.exe.config
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\bin\Debug\01.Kitchen.exe
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\bin\Debug\01.Kitchen.pdb
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\obj\Debug\01.Kitchen.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\obj\Debug\01.Kitchen.exe
+D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\01.Kitchen\obj\Debug\01.Kitchen.pdb

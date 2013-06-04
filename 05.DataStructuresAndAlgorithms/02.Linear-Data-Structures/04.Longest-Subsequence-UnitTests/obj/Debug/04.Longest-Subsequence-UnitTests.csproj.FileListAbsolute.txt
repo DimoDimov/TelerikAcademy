@@ -1,0 +1,7 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\obj\Debug\04.Longest-Subsequence-UnitTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\bin\Debug\04.Longest-Subsequence-UnitTests.dll
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\bin\Debug\04.Longest-Subsequence-UnitTests.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\bin\Debug\04.Longest-Subsequence-Of-Equal-Numbers.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\bin\Debug\04.Longest-Subsequence-Of-Equal-Numbers.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\obj\Debug\04.Longest-Subsequence-UnitTests.dll
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Longest-Subsequence-UnitTests\obj\Debug\04.Longest-Subsequence-UnitTests.pdb

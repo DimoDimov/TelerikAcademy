@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\bin\Debug\02.Stack-In-Out.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\bin\Debug\02.Stack-In-Out.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\bin\Debug\02.Stack-In-Out.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\obj\Debug\02.Stack-In-Out.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\obj\Debug\02.Stack-In-Out.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\02.Stack-In-Out\obj\Debug\02.Stack-In-Out.pdb
