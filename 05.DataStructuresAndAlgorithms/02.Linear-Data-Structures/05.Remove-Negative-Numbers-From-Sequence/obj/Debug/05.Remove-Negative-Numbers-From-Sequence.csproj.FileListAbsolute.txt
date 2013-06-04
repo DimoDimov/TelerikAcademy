@@ -4,3 +4,6 @@ D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\05.Re
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\obj\Debug\05.Remove-Negative-Numbers-From-Sequence.csprojResolveAssemblyReference.cache
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\obj\Debug\05.Remove-Negative-Numbers-From-Sequence.exe
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\obj\Debug\05.Remove-Negative-Numbers-From-Sequence.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\bin\Debug\05.Remove-Negative-Numbers-From-Sequence.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\obj\Debug\05.Remove-Negative-Numbers-From-Sequence.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\05.Remove-Negative-Numbers-From-Sequence\obj\Debug\05.Remove-Negative-Numbers-From-Sequence.pdb

@@ -4,3 +4,6 @@ D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\07.El
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\07.Elements-Counter\obj\Debug\07.Elements-Counter.csprojResolveAssemblyReference.cache
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\07.Elements-Counter\obj\Debug\07.Elements-Counter.exe
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\07.Elements-Counter\obj\Debug\07.Elements-Counter.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\07.Elements-Counter\bin\Debug\07.Elements-Counter.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\07.Elements-Counter\obj\Debug\07.Elements-Counter.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\07.Elements-Counter\obj\Debug\07.Elements-Counter.pdb

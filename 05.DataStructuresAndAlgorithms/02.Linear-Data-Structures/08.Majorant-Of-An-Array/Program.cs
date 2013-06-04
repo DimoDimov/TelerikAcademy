@@ -19,10 +19,11 @@
 
             Dictionary<int, int> countedList = new Dictionary<int, int>();
 
+            // what's the difference between this approach:
             //for (int i = 0; i < originalList.Count; i++)
             //{
             //    int value = 0;
-            //    if (!countedList.TryGetValue(countedList[i], out value))
+            //    if (!countedList.TryGetValue(originalList[i], out value))
             //    {
             //        countedList.Add(value, 1);
             //    }
@@ -31,6 +32,8 @@
             //        countedList[originalList[i]]++;
             //    }
             //}
+
+            //and that approach:
             foreach (var el in originalList)
             {
                 int value = 0;
@@ -44,7 +47,7 @@
                 }
             }
 
-            var countedList2 = countedList.OrderBy(key => -key.Value);
+            var countedList2 = countedList.OrderBy(pair => -pair.Value);
 
 
             if (countedList2.First().Value >= ((originalList.Count / 2) + 1))
