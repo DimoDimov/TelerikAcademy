@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\bin\Debug\13.Dynamic-Queue-Implementation.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\bin\Debug\13.Dynamic-Queue-Implementation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\bin\Debug\13.Dynamic-Queue-Implementation.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\obj\Debug\13.Dynamic-Queue-Implementation.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\obj\Debug\13.Dynamic-Queue-Implementation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\13.Dynamic-Queue-Implementation\obj\Debug\13.Dynamic-Queue-Implementation.pdb

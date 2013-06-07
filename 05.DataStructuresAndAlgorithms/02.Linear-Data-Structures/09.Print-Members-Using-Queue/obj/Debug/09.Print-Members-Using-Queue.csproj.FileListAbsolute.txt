@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\bin\Debug\09.Print-Members-Using-Queue.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\bin\Debug\09.Print-Members-Using-Queue.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\bin\Debug\09.Print-Members-Using-Queue.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\obj\Debug\09.Print-Members-Using-Queue.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\obj\Debug\09.Print-Members-Using-Queue.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\09.Print-Members-Using-Queue\obj\Debug\09.Print-Members-Using-Queue.pdb

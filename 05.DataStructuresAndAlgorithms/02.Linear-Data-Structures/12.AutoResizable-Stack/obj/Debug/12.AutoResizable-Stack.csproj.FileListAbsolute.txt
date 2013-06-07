@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\bin\Debug\12.AutoResizable-Stack.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\obj\Debug\12.AutoResizable-Stack.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\bin\Debug\12.AutoResizable-Stack.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\bin\Debug\12.AutoResizable-Stack.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\obj\Debug\12.AutoResizable-Stack.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\12.AutoResizable-Stack\obj\Debug\12.AutoResizable-Stack.pdb

@@ -7,3 +7,6 @@ D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\02.Linear-Data-Structures\04.Lo
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\bin\Debug\04.Longest-Subsequence-Of-Equal-Numbers.exe.config
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\obj\Debug\04.Longest-Subsequence-Of-Equal-Numbers.exe
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\obj\Debug\04.Longest-Subsequence-Of-Equal-Numbers.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\bin\Debug\04.Longest-Subsequence-Of-Equal-Numbers.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\bin\Debug\04.Longest-Subsequence-Of-Equal-Numbers.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\04.Longest-Subsequence-Of-Equal-Numbers\obj\Debug\04.Longest-Subsequence-Of-Equal-Numbers.csprojResolveAssemblyReference.cache

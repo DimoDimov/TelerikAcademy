@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\bin\Debug\11.LinkedList-Implementation.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\obj\Debug\11.LinkedList-Implementation.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\bin\Debug\11.LinkedList-Implementation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\bin\Debug\11.LinkedList-Implementation.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\obj\Debug\11.LinkedList-Implementation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\11.LinkedList-Implementation\obj\Debug\11.LinkedList-Implementation.pdb

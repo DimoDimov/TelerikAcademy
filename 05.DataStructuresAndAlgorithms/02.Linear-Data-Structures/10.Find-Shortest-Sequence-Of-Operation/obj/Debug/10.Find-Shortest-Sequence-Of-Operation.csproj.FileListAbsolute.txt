@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\bin\Debug\10.Find-Shortest-Sequence-Of-Operation.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\bin\Debug\10.Find-Shortest-Sequence-Of-Operation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\bin\Debug\10.Find-Shortest-Sequence-Of-Operation.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\obj\Debug\10.Find-Shortest-Sequence-Of-Operation.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\obj\Debug\10.Find-Shortest-Sequence-Of-Operation.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\02.Linear-Data-Structures\10.Find-Shortest-Sequence-Of-Operation\obj\Debug\10.Find-Shortest-Sequence-Of-Operation.pdb
