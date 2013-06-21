@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\bin\Debug\05.StringVariations.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\obj\Debug\05.StringVariations.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\bin\Debug\05.StringVariations.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\bin\Debug\05.StringVariations.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\obj\Debug\05.StringVariations.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\05.StringVariations\obj\Debug\05.StringVariations.pdb

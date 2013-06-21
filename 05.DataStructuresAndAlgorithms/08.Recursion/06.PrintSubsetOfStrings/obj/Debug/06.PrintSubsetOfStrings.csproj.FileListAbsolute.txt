@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\bin\Debug\06.PrintSubsetOfStrings.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\bin\Debug\06.PrintSubsetOfStrings.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\bin\Debug\06.PrintSubsetOfStrings.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\obj\Debug\06.PrintSubsetOfStrings.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\obj\Debug\06.PrintSubsetOfStrings.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\06.PrintSubsetOfStrings\obj\Debug\06.PrintSubsetOfStrings.csprojResolveAssemblyReference.cache

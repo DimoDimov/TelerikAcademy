@@ -4,3 +4,6 @@ D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\01.NestedLoops\bin
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.csprojResolveAssemblyReference.cache
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.exe
 D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\01.NestedLoops\bin\Debug\01.NestedLoops.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.pdb
