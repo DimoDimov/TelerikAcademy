@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\bin\Debug\02.CombinationsWithDuplicates.exe.config
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\bin\Debug\02.CombinationsWithDuplicates.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\bin\Debug\02.CombinationsWithDuplicates.pdb
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\obj\Debug\02.CombinationsWithDuplicates.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\obj\Debug\02.CombinationsWithDuplicates.exe
+D:\Dropbox\000.Trash\05.DataStructures\HomeWorks\08.Recursion\02.CombinationsWithDuplicates\obj\Debug\02.CombinationsWithDuplicates.pdb
