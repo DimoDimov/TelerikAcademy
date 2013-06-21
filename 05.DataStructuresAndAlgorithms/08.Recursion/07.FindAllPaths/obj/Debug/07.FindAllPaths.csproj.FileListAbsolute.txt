@@ -3,3 +3,4 @@ D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Rec
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\07.FindAllPaths\bin\Debug\07.FindAllPaths.pdb
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\07.FindAllPaths\obj\Debug\07.FindAllPaths.exe
 D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\07.FindAllPaths\obj\Debug\07.FindAllPaths.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\07.FindAllPaths\obj\Debug\07.FindAllPaths.csprojResolveAssemblyReference.cache
