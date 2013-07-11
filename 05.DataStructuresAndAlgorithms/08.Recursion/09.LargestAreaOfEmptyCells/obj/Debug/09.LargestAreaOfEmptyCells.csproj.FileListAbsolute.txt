@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\bin\Debug\09.LargestAreaOfEmptyCells.exe.config
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\bin\Debug\09.LargestAreaOfEmptyCells.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\bin\Debug\09.LargestAreaOfEmptyCells.pdb
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\obj\Debug\09.LargestAreaOfEmptyCells.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\obj\Debug\09.LargestAreaOfEmptyCells.exe
+D:\Dropbox\000.Trash\GitHub\TelerikAcademy\05.DataStructuresAndAlgorithms\08.Recursion\09.LargestAreaOfEmptyCells\obj\Debug\09.LargestAreaOfEmptyCells.pdb

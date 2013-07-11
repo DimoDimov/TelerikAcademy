@@ -12,8 +12,6 @@
 
     class Program
     {
-        
-
         static List<Tuple<int, int>> path = new List<Tuple<int, int>>();
 
         static void Main()

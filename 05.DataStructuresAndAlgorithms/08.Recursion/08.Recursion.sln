@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FindAllPaths", "07.FindA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PossiblePathBetweenTwoCells", "08.PossiblePathBetweenTwoCells\08.PossiblePathBetweenTwoCells.csproj", "{708B8C83-F205-4BF2-A405-6E1563F6C980}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.LargestAreaOfEmptyCells", "09.LargestAreaOfEmptyCells\09.LargestAreaOfEmptyCells.csproj", "{47E7876C-F4AE-4152-87EE-CD990458DAE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{708B8C83-F205-4BF2-A405-6E1563F6C980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{708B8C83-F205-4BF2-A405-6E1563F6C980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{708B8C83-F205-4BF2-A405-6E1563F6C980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E7876C-F4AE-4152-87EE-CD990458DAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E7876C-F4AE-4152-87EE-CD990458DAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E7876C-F4AE-4152-87EE-CD990458DAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E7876C-F4AE-4152-87EE-CD990458DAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
