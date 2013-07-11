@@ -112,7 +112,7 @@ WHERE e.AddressID = a.AddressID
 
 --20.Write a SQL query to find all employees along with their manager.
 
-SELECT e.FirstName, e.LastName, m.LastName AS [Manager's Name]
+SELECT e.FirstName, e.LastName, m.LastName AS [Managers Name]
 FROM Employees e INNER JOIN Employees m
 ON e.ManagerID = m.EmployeeID
 
