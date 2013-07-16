@@ -1,0 +1,12 @@
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\StudentSystem.Context.dll.config
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\StudentSystem.Context.dll
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\StudentSystem.Context.pdb
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\EntityFramework.dll
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\StudentSystem.Models.dll
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\StudentSystem.Models.pdb
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\bin\Debug\EntityFramework.xml
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\obj\Debug\StudentSystem.Context.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\obj\Debug\StudentSystem.Context.dll
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\obj\Debug\StudentSystem.Context.pdb
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\obj\Debug\StudentSystem.Context.Migrations.InitialCreate.resources
+D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Context\obj\Debug\StudentSystem.Context.csproj.GenerateResource.Cache
