@@ -30,7 +30,7 @@ namespace StudentSystem.Models
             this.students = new HashSet<Student>();
         }
 
-        public ICollection<Student> Students
+        public virtual ICollection<Student> Students
         {
             get { return this.students; }
             set { this.students = value; }

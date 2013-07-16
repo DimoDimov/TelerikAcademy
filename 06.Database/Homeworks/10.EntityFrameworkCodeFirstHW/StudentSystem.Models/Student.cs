@@ -25,7 +25,7 @@ namespace StudentSystem.Models
             this.courses = new HashSet<Course>();
         }
 
-        public ICollection<Course> Courses
+        public virtual ICollection<Course> Courses
         {
             get { return this.courses; }
             set { this.courses = value; }

@@ -10,3 +10,6 @@ D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\St
 D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Client\obj\Debug\StudentSystem.Client.csprojResolveAssemblyReference.cache
 D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Client\obj\Debug\StudentSystem.Client.exe
 D:\Dropbox\000.Trash\05.JavaScriptPart03\HomeWorks\EntityFrameworkCodeFirstHW\StudentSystem.Client\obj\Debug\StudentSystem.Client.pdb
+D:\Dropbox\000.Trash\06.DataBase\Homework\10.EntityFrameworkCodeFirstHW\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe.config
+D:\Dropbox\000.Trash\06.DataBase\Homework\10.EntityFrameworkCodeFirstHW\StudentSystem.Client\obj\Debug\StudentSystem.Client.exe
+D:\Dropbox\000.Trash\06.DataBase\Homework\10.EntityFrameworkCodeFirstHW\StudentSystem.Client\obj\Debug\StudentSystem.Client.pdb
