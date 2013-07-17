@@ -12,7 +12,7 @@ namespace StudentSystem.Models
     public class Course
     {
         private ICollection<Student> students;
-
+        
         [Key, Column("CourseId")]
         public int CourseId { get; set; }
 
@@ -35,5 +35,7 @@ namespace StudentSystem.Models
             get { return this.students; }
             set { this.students = value; }
         }
+
+        
     }
 }

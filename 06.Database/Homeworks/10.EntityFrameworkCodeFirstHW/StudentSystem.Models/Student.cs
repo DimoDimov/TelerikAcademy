@@ -10,6 +10,7 @@ namespace StudentSystem.Models
     public class Student
     {
         private ICollection<Course> courses;
+       
         
         [Key, Column("StudentId")]
         public int StudentID { get; set; }
@@ -30,5 +31,6 @@ namespace StudentSystem.Models
             get { return this.courses; }
             set { this.courses = value; }
         }
+
     }
 }
