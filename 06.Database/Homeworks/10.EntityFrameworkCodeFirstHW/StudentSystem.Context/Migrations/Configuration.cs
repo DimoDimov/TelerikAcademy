@@ -1,5 +1,6 @@
 namespace StudentSystem.Context.Migrations
 {
+    using StudentSystem.Models;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -13,20 +14,15 @@ namespace StudentSystem.Context.Migrations
             AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(StudentSystem.Context.StudentSystemContext context)
-        {
-            //  This method will be called after migrating to the latest version.
-
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data. E.g.
-            //
-            //    context.People.AddOrUpdate(
-            //      p => p.FullName,
-            //      new Person { FullName = "Andrew Peters" },
-            //      new Person { FullName = "Brice Lambson" },
-            //      new Person { FullName = "Rowan Miller" }
-            //    );
-            //
+        protected override void Seed(StudentSystemContext context) 
+        {            
+            context.Students.AddOrUpdate(
+                s => s.Name, new Student()
+            {
+                Name = "Ivan13" + 1,
+                Number = 1
+            });
+            context.SaveChanges();
         }
     }
 }
