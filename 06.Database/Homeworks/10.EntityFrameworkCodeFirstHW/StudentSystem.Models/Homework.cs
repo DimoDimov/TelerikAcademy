@@ -25,12 +25,12 @@ namespace StudentSystem.Models
         [Column("TimeSent")]
         public DateTime TimeSent { get; set; }
 
-        [ForeignKey("Course"), Column("CourseId")]
-        public int CourseId { get; set; }
+        [Column("Course")] //,ForeignKey("Course")]
+        //public int CourseId { get; set; }
         public virtual Course Course { get; set; }
 
-        [ForeignKey("Student"), Column("StudentId")]
-        public int StudentId { get; set; }
+        [Column("Student")]//, ForeignKey("Student"), ]
+        //public int StudentId { get; set; }
         public virtual Student Student { get; set; }
     }
 }
