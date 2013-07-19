@@ -1,0 +1,5 @@
+D:\Dropbox\000.Trash\06.DataBase\Homework\16.XML-Basics\02.Student\bin\02.Student.dll
+D:\Dropbox\000.Trash\06.DataBase\Homework\16.XML-Basics\02.Student\bin\02.Student.pdb
+D:\Dropbox\000.Trash\06.DataBase\Homework\16.XML-Basics\02.Student\obj\Debug\02.Student.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\06.DataBase\Homework\16.XML-Basics\02.Student\obj\Debug\02.Student.dll
+D:\Dropbox\000.Trash\06.DataBase\Homework\16.XML-Basics\02.Student\obj\Debug\02.Student.pdb

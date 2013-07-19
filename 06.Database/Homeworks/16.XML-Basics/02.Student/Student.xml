@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="StudentAsHTML.xslt"?>
+<students name="Telerik academy students" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <student>
+    <name>Pesho</name>
+    <sex>male</sex>
+    <birthdate>12.12.1990</birthdate>
+    <phone>0888 888 888</phone>
+    <email>pesho@abv.bg</email>
+    <course>3th</course>
+    <specialty>software engineer</specialty>
+    <faculty-number>1313</faculty-number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <tutor>Nakov</tutor>
+        <score>6</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <exam>
+        <date>2002-12-12</date>
+        <exam-score>3</exam-score>
+        <teacher>IamUrTeacher</teacher>
+      </exam>
+    </enrollment>
+  </student>
+  
+  <student>
+    <name>Gosho</name>
+    <sex>male</sex>
+    <birthdate>12.12.1984</birthdate>
+    <phone>0888 888 999</phone>
+    <email>gosho@abv.bg</email>
+    <course>1th</course>
+    <specialty>software engineer2</specialty>
+    <faculty-number>7777</faculty-number>
+    <exams>
+      <exam>
+        <name>JS</name>
+        <tutor>Kostov</tutor>
+        <score>7</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <exam>
+        <date>2003-12-12</date>
+        <exam-score>4</exam-score>
+        <teacher>IamUrTeacher2</teacher>
+      </exam>
+    </enrollment>
+  </student>
+</students>
