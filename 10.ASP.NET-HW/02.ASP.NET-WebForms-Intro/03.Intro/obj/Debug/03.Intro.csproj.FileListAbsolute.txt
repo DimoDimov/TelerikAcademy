@@ -1,0 +1,5 @@
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\03.Intro\bin\03.Intro.dll.config
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\03.Intro\bin\03.Intro.dll
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\03.Intro\bin\03.Intro.pdb
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\03.Intro\obj\Debug\03.Intro.dll
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\03.Intro\obj\Debug\03.Intro.pdb
