@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\bin\InternationalCompany.dll.config
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\bin\InternationalCompany.dll
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\bin\InternationalCompany.pdb
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\obj\Debug\InternationalCompany.dll
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\obj\Debug\InternationalCompany.pdb
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\04.MasterPages\02.InternationalCompany\obj\Debug\02.InternationalCompany.csprojResolveAssemblyReference.cache
