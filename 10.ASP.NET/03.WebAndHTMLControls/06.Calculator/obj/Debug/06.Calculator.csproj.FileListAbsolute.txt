@@ -1,6 +1,0 @@
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\bin\06.Calculator.dll.config
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\bin\06.Calculator.dll
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\bin\06.Calculator.pdb
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\obj\Debug\06.Calculator.csprojResolveAssemblyReference.cache
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\obj\Debug\06.Calculator.dll
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\06.Calculator\obj\Debug\06.Calculator.pdb
