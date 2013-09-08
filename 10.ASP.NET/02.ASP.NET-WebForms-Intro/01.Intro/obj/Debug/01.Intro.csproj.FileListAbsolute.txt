@@ -1,0 +1,6 @@
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\bin\01.Intro.dll.config
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\bin\01.Intro.dll
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\bin\01.Intro.pdb
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\obj\Debug\01.Intro.csprojResolveAssemblyReference.cache
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\obj\Debug\01.Intro.dll
+c:\users\ilian\documents\visual studio 2013\Projects\01.Intro\01.Intro\obj\Debug\01.Intro.pdb
