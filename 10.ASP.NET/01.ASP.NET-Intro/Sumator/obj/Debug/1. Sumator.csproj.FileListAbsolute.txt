@@ -1,6 +1,0 @@
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\bin\Sumator.dll.config
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\bin\Sumator.dll
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\bin\Sumator.pdb
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\obj\Debug\1. Sumator.csprojResolveAssemblyReference.cache
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\obj\Debug\Sumator.dll
-C:\Users\ilian\Documents\Visual Studio 2013\Projects\ASP-Intro\Sumator\obj\Debug\Sumator.pdb

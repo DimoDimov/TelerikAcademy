@@ -1,6 +1,0 @@
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\obj\Debug\04.RegisterStudents.csprojResolveAssemblyReference.cache
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\bin\04.RegisterStudents.dll.config
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\bin\04.RegisterStudents.dll
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\bin\04.RegisterStudents.pdb
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\obj\Debug\04.RegisterStudents.dll
-D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\04.RegisterStudents\obj\Debug\04.RegisterStudents.pdb
