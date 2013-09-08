@@ -1,0 +1,6 @@
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\bin\03.TextBoxValueExchange.dll.config
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\bin\03.TextBoxValueExchange.dll
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\bin\03.TextBoxValueExchange.pdb
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\obj\Debug\03.TextBoxValueExchange.dll
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\obj\Debug\03.TextBoxValueExchange.pdb
+D:\Dropbox\000.Trash\11.ASP.NET-WebForms\Homeworks\03.WebAndHTMLControls\03.TextBoxValueExchange\obj\Debug\03.TextBoxValueExchange.csprojResolveAssemblyReference.cache
