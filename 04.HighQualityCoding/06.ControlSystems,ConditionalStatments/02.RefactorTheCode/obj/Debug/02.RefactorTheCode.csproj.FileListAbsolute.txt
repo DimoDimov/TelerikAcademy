@@ -1,6 +1,0 @@
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\bin\Debug\02.RefactorTheCode.exe.config
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\bin\Debug\02.RefactorTheCode.exe
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\bin\Debug\02.RefactorTheCode.pdb
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\obj\Debug\02.RefactorTheCode.csprojResolveAssemblyReference.cache
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\obj\Debug\02.RefactorTheCode.exe
-D:\Dropbox\000.Trash\04.QualityCode\HomeWorks\06.ControlSystems,ConditionalStatments\02.RefactorTheCode\obj\Debug\02.RefactorTheCode.pdb
