@@ -1,0 +1,18 @@
+﻿@model TicketingSystem.Web.Models.CommentViewModel
+<div id="tickets">
+    @(Html.Kendo()
+            .ListView<TicketingSystem.Web.Models.TicketListViewModel>()
+            .Name("listViewTickets")
+            .TagName("div")
+            .ClientTemplateId("ticket-template")
+            .DataSource(data =>
+            {
+                data.Model(model => model.Id("Id"));
+                data.Read("ReadTickets", "Tickets");
+                data.ServerOperation(true);
+                data.PageSize(5);
+            })
+            .Pageable()
+            .Editable()
+    )
+</div>
